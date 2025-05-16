@@ -20,7 +20,7 @@ easy-to-understand format for business decisions.
 
 # KEY INSIGHTS: 
 # 1)Top Performing Region- 
-    "South" Region has the highest total salesn among all regions.
+    "South" Region has the highest total sales among all regions.
 - This indicates strong market demand or customer based in that region.
 
 # 2)Best Selling Product-
