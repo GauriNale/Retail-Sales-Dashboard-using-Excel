@@ -2,7 +2,7 @@
 
 # Project Explanation 
 I created an interactive Retail sales dashboard using Microsoft Excel to Visualize and analyze sales 
-peerformance across different Regions and products. The dashboard provides a quick overview of matricsL
+peerformance across different Regions and products. The dashboard provides a quick overview of matrics
 like Total sales, Profit and Quantity Sold using pivot tables and charts , the data is summarized in an 
 easy-to-understand format for business decisions.
 
